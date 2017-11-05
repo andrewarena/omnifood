@@ -1,2 +1,2 @@
 # omnifood
-Omnifood website made with instruction from a video course
+Website for a pretend food company.
